@@ -1,0 +1,18 @@
+{
+  "name": "jitdb-files-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre Staltz <contact@staltz.com>",
+  "license": "MIT",
+  "dependencies": {
+    "atomically-universal": "^0.1.1",
+    "jsesc": "^3.0.2",
+    "sanitize-filename": "^1.6.3",
+    "typedarray-to-buffer": "^4.0.0",
+    "typedfastbitset": "^0.2.1"
+  }
+}
